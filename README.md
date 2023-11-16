@@ -2,7 +2,7 @@
 A spatial-temporal multi-agent reinforcement learning framework (STMRL) to perform distributed decision-making in multi-edge empowered computation offloading systems
 Code and Data for model STMRL 
 
-Requirements:
+Requirements:  
 python 3.7  
 tensorflow 2.4  
 stellargraph 1.2.1  
